@@ -1,4 +1,8 @@
 {
+    "python.pythonPath": "python",
+    "python.defaultInterpreterPath": "python",
+    "python.linting.enabled": false,
+    "python.analysis.disabled": ["all"],
     "files.exclude": {
         "a": true,
         "b": true
